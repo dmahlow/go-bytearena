@@ -2,7 +2,7 @@ package models
 
 const (
 	HandshakeType = "Handshake"
-	MutationType  = "Mutation"
+	MutationType  = "Actions"
 )
 
 // TODO: Find a better name for that
